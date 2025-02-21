@@ -20,6 +20,7 @@
     src: url(../breaking_b/Breaking\ Bad.ttf);
 }
 .cabecera {
+    src: url(../img/Tabla\ Periódica/cabecera.png);
     display: block;
     margin: 0 auto;
     position: relative;
