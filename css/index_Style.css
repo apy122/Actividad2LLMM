@@ -6,7 +6,7 @@
     background-color: rgba(98, 112, 36, 255);
     box-sizing: border-box;
     font-family: breakingbadfont;
-    background-image: url(../fondo.jpg);
+    background-image: url(/fondo.jpg);
     height: auto;
     width: auto;
     background-size: cover;
@@ -17,10 +17,10 @@
 
 @font-face {
     font-family: 'Breaking type';
-    src: url(../breaking_b/Breaking\ Bad.ttf);
+    src: url(/breaking_b/Breaking\ Bad.ttf);
 }
 .cabecera {
-    src: url(../img/Tabla\ Periódica/cabecera.png);
+    src: url(/img/Tabla\ Periódica/cabecera.png);
     display: block;
     margin: 0 auto;
     position: relative;
